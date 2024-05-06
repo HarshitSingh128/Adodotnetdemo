@@ -166,7 +166,7 @@
             this.btnshow.Name = "btnshow";
             this.btnshow.Size = new System.Drawing.Size(148, 38);
             this.btnshow.TabIndex = 13;
-            this.btnshow.Text = "Show all Employee";
+            this.btnshow.Text = "Show all Employees";
             this.btnshow.UseVisualStyleBackColor = true;
             this.btnshow.Click += new System.EventHandler(this.btnshow_Click);
             // 
